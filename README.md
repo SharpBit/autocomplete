@@ -4,7 +4,8 @@
 
 ### Install Dependencies
 - Install Python 3.7 (add to PATH)
-- Run `pip3 install -r requirements.txt` (nltk)
+- Run `pip3 install -r requirements.txt`
+- Run `py -3 download_nltk_packages.py`
 
 ### Setup
 1. Run `py -3 create_unigrams.py` to process the Brown University corpus.
